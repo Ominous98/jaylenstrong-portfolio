@@ -181,18 +181,18 @@ h2::selection {
 /* Purcell Images */
 
 /* Purcell 1 */
-.card-purcell:nth-child(1):nth-child(1) {
-  background: url(../assets/purcell/purcell-one.png) center center/cover;
+.card-fishflop:nth-child(1):nth-child(1) {
+  background: url(../assets/purcell/fishflop-one.png) center center/cover;
 }
 
 /* Purcell 2 */
-.card-purcell:nth-child(2) {
-  background: url(../assets/purcell/purcell-two.png) center center/cover;
+.card-fishflop:nth-child(2) {
+  background: url(../assets/purcell/fishflop-two.gif) center center/cover;
 }
 
 /* Purcell 3 */
-.card-purcell:nth-child(3) {
-  background: url(../assets/purcell/purcell-three.png) center center/cover;
+.card-fishflop:nth-child(3) {
+  background: url(../assets/purcell/fishflop-three.png) center center/cover;
 }
 
 
