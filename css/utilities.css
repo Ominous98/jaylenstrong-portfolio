@@ -181,17 +181,17 @@ h2::selection {
 /* Purcell Images */
 
 /* Purcell 1 */
-.card-fishflop:nth-child(1):nth-child(1) {
+.card-pone:nth-child(1):nth-child(1) {
   background: url(../assets/fishflop/fishflop-one.png) center center/cover;
 }
 
 /* Purcell 2 */
-.card-fishflop:nth-child(2) {
+.card-pone:nth-child(2) {
   background: url(../assets/fishflop/fishflop-two.gif) center center/cover;
 }
 
 /* Purcell 3 */
-.card-fishflop:nth-child(3) {
+.card-pone:nth-child(3) {
   background: url(../assets/fishflop/fishflop-three.png) center center/cover;
 }
 
