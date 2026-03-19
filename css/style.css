@@ -59,8 +59,8 @@ html {
 ul {
   /*list-style: none;*/
   list-style-position: inside;
-  width: 60%;
-  display: inline-block;
+  width: 80%;
+  /*display: inline-block;*/
 }
 
 a {
