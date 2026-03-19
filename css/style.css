@@ -57,11 +57,17 @@ html {
 }
 
 ul {
-  /*list-style: none;*/
+  /*list-style: none;
   list-style-position: outside;
   width: 80%;
   text-align: left;
+  margin: 0 auto;*/
+
+  list-style: disc;
+  text-align: left;
+  width: fit-content;
   margin: 0 auto;
+  padding-left: 1.5rem;
 }
 
 a {
